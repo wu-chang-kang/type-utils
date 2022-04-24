@@ -13,3 +13,5 @@ export type Reverse<T extends ArrayAndReadonlyArrayByPassArray> = T extends T
       T
     >
   : never
+
+// type Foo = Reverse<[1, 2, 3]>
