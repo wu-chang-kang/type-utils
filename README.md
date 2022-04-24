@@ -1,6 +1,6 @@
 # type-utils
 
-一个typescript类型工具包
+使用 TypeScript 开发的一套基于类型系统的工具集（Just For Fun）。
 
 ## 如何使用
 
