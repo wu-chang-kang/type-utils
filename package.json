@@ -1,0 +1,22 @@
+{
+  "name": "@wu-chang-kang/type-utils",
+  "version": "1.0.0",
+  "description": "a ts type tools",
+  "typings": "dist/index.d.ts",
+  "main": "dist/index.js",
+  "author": {
+    "name": "wu-chang-kang",
+    "email": "1147552381@qq.com"
+  },
+  "scripts": {
+    "dev": "tsc -w",
+    "build": "tsc -p tsconfig.build.json",
+    "format": "prettier --write '**/*.{ts,tsx,js,jsx,json,.md}'"
+  },
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "prettier": "^2.4.1",
+    "typescript": "^4.4.4"
+  }
+}
