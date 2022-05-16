@@ -6,7 +6,7 @@
   "main": "dist/index.js",
   "author": {
     "name": "wu-chang-kang",
-    "email": "1147552381@qq.com"
+    "email": ""
   },
   "scripts": {
     "dev": "tsc -w",
